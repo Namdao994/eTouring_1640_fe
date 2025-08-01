@@ -33,4 +33,4 @@ A secure, responsive web application for managing student–tutor interactions a
 - **State Management**: Context API / useReducer 
 - **HTTP Client**: Axios
 - **UI Library**: AntDesign
-- **Charting **: Recharts
+- **Charting**: Recharts
